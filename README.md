@@ -44,8 +44,8 @@ I enjoy bridging the gap between development & operations, and I focus on:
 ---
 
 ## 📫 Connect with Me  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
-- Email: [yourname@email.com](mailto:lovkeshatolkar03@gmail.com)  
+- LinkedIn: [Not available](https://linkedin.com/in/your-linkedin)  
+- Email: [lovkeshatolkar03@gmail.com](mailto:lovkeshatolkar03@gmail.com)  
 
 
 <!--
