@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi Developers 👋  
+## Hi there 👋 i'm Lovkesh  
 
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-🔗-blueviolet?style=for-the-badge)](https://your-portfolio-link.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)  
@@ -14,32 +13,31 @@ I enjoy bridging the gap between development & operations, and I focus on:
 - ☁️ Cloud Platforms (AWS, Azure, GCP)  
 - ⚙️ Infrastructure as Code (Terraform, Ansible, CloudFormation)  
 - 🔄 CI/CD Automation (Jenkins, GitHub Actions, GitLab CI)  
-- 📊 Monitoring & Logging (Prometheus, Grafana, ELK)  
+- 📊 Monitoring & Logging (Prometheus, Grafana, Datadog, Cloud Watch)  
 
 💡 Motto: *"Automate Everything & Build Scalable Systems."*  
 
 ---
 
 ## 🏆 GitHub Profile Trophy  
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)  
+
 
 ---
 
 ## 📊 GitHub Stats  
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
 
 ---
 
 ## 🔧 Languages & Tools  
 <p align="left">
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </p>  
 
@@ -47,7 +45,7 @@ I enjoy bridging the gap between development & operations, and I focus on:
 
 ## 📫 Connect with Me  
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
-- Email: [yourname@email.com](mailto:yourname@email.com)  
+- Email: [yourname@email.com](mailto:lovkeshatolkar03@gmail.com)  
 
 
 <!--
